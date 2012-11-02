@@ -19,24 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/products/index.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="24" selection-start="174" selection-end="174" vertical-scroll-proportion="-2.368421">
-              <folding>
-                <marker date="1351881352000" expanded="true" signature="32:712" placeholder="..." />
-                <marker date="1351881352000" expanded="true" signature="54:701" placeholder="do ... end" />
-                <marker date="1351881352000" expanded="true" signature="135:693" placeholder="..." />
-                <marker date="1351881352000" expanded="true" signature="148:221" placeholder="..." />
-                <marker date="1351881352000" expanded="true" signature="259:431" placeholder="..." />
-                <marker date="1351881352000" expanded="true" signature="264:425" placeholder="..." />
-                <marker date="1351881352000" expanded="true" signature="319:411" placeholder="..." />
-                <marker date="1351881352000" expanded="true" signature="465:687" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="product.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/product.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -69,25 +51,43 @@
       <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/store/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="9" selection-start="423" selection-end="423" vertical-scroll-proportion="-14.34375">
+            <state line="13" column="50" selection-start="393" selection-end="393" vertical-scroll-proportion="-10.96875">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="store.css.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="store_controller_test.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/functional/store_controller_test.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="20" selection-start="220" selection-end="220" vertical-scroll-proportion="0.23020707">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="store.css.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/store.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="1" selection-start="908" selection-end="908" vertical-scroll-proportion="0.80267966">
+            <state line="28" column="25" selection-start="632" selection-end="632" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.ru" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config.ru">
+      <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="155" selection-end="155" vertical-scroll-proportion="0.0">
+            <state line="13" column="2" selection-start="369" selection-end="369" vertical-scroll-proportion="-7.78125">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.css.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="2" selection-start="955" selection-end="955" vertical-scroll-proportion="-5.6538463">
               <folding />
             </state>
           </provider>
@@ -114,17 +114,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="products.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/fixtures/products.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="17" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1351885352000" expanded="true" signature="252:519" placeholder="ruby:" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindManager">
@@ -138,7 +127,6 @@
         <option value="$PROJECT_DIR$/app/views/products/_form.html.erb" />
         <option value="$PROJECT_DIR$/db/seeds.rb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/products.css.scss" />
-        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/views/products/index.html.erb" />
         <option value="$PROJECT_DIR$/test/functional/products_controller_test.rb" />
         <option value="$PROJECT_DIR$/test/fixtures/products.yml" />
@@ -146,8 +134,11 @@
         <option value="$PROJECT_DIR$/app/models/product.rb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/controllers/store_controller.rb" />
-        <option value="$PROJECT_DIR$/app/views/store/index.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/store.css.scss" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css.scss" />
+        <option value="$PROJECT_DIR$/app/views/store/index.html.erb" />
+        <option value="$PROJECT_DIR$/test/functional/store_controller_test.rb" />
       </list>
     </option>
   </component>
@@ -212,7 +203,61 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="depot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="depot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="functional" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="depot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="depot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="depot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="depot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="store" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -247,6 +292,28 @@
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="depot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="depot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -263,28 +330,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="depot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="depot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stylesheets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -646,27 +691,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/products.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="5" selection-start="556" selection-end="556" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="46" selection-start="240" selection-end="240" vertical-scroll-proportion="-5.677419">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/products/_form.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="8" selection-start="445" selection-end="445" vertical-scroll-proportion="-11.354838">
@@ -699,23 +723,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="17" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0">
           <folding>
-            <marker date="1351885352000" expanded="true" signature="252:519" placeholder="ruby:" />
+            <marker date="1351885352000" expanded="true" signature="-1:-1" placeholder="ruby:" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/products/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="24" selection-start="174" selection-end="174" vertical-scroll-proportion="-2.368421">
+        <state line="5" column="24" selection-start="174" selection-end="174" vertical-scroll-proportion="-2.3275862">
           <folding>
-            <marker date="1351881352000" expanded="true" signature="32:712" placeholder="..." />
-            <marker date="1351881352000" expanded="true" signature="54:701" placeholder="do ... end" />
-            <marker date="1351881352000" expanded="true" signature="135:693" placeholder="..." />
-            <marker date="1351881352000" expanded="true" signature="148:221" placeholder="..." />
-            <marker date="1351881352000" expanded="true" signature="259:431" placeholder="..." />
-            <marker date="1351881352000" expanded="true" signature="264:425" placeholder="..." />
-            <marker date="1351881352000" expanded="true" signature="319:411" placeholder="..." />
-            <marker date="1351881352000" expanded="true" signature="465:687" placeholder="..." />
+            <marker date="1351881352000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1351881352000" expanded="true" signature="-1:-1" placeholder="do ... end" />
+            <marker date="1351881352000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1351881352000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1351881352000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1351881352000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1351881352000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1351881352000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -753,6 +777,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/store.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="25" selection-start="632" selection-end="632" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="2" selection-start="369" selection-end="369" vertical-scroll-proportion="-7.78125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/store/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="50" selection-start="393" selection-end="393" vertical-scroll-proportion="-10.96875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/store_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="36" selection-start="94" selection-end="94" vertical-scroll-proportion="0.0">
@@ -760,16 +805,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/store/index.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="9" selection-start="423" selection-end="423" vertical-scroll-proportion="-14.34375">
+        <state line="40" column="2" selection-start="955" selection-end="955" vertical-scroll-proportion="-5.6538463">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/store.css.scss">
+    <entry file="file://$PROJECT_DIR$/test/functional/store_controller_test.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="1" selection-start="908" selection-end="908" vertical-scroll-proportion="0.80267966">
+        <state line="7" column="20" selection-start="220" selection-end="220" vertical-scroll-proportion="0.23020707">
           <folding />
         </state>
       </provider>

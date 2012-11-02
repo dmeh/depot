@@ -17,7 +17,12 @@
       <li><a href="http://www..../faq">Questions</a></li>
       <li><a href="http://www..../news">News</a></li>
       <li><a href="http://www..../contact">Contact</a></li>
-    </ul> </div>
+      <br>
+      <li><%=  Time.now.strftime("%H:%M:%S") %></li>
+      <li><%=  Date.today.strftime("%d/%m/%y") %></li>
+    </ul>
+
+    </div>
     <div id="main">
       <%= yield %>
     </div>
